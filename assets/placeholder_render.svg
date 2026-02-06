@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800">
+<rect width="100%" height="100%" fill="#faf8f4"/>
+<circle cx="700" cy="340" r="150" fill="none" stroke="#b79b5b" stroke-width="10"/>
+<circle cx="700" cy="340" r="135" fill="none" stroke="#b79b5b" stroke-width="2"/>
+<text x="700" y="580" font-family="Georgia, serif" font-size="56" text-anchor="middle" fill="#141414">IDEAS Café</text>
+<text x="700" y="640" font-family="Arial, sans-serif" font-size="26" text-anchor="middle" fill="#5a5a5a">Placeholder image — replace with your roofless kiosk renders</text>
+</svg>
